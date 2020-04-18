@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Yexuan Shi is a Ph. D. student of Computer Software and Theory at the Big Data Analysis Group, SKLSDE, Beihang University. His research interests include spatial crowdsourcing, federated data services and privacy-preserving data analysis. 
+I am a Ph. D. student of Computer Software and Theory at the [Big Data Analysis Group](http://yongxintong.group/), [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), under [Prof. Yongxin Tong](http://sites.nlsde.buaa.edu.cn/~yxtong/) and [Prof. Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)'s supervision. My research interests include spatial crowdsourcing, federated data services and privacy-preserving data analysis. 
