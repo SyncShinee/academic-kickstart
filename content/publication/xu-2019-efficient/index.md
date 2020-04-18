@@ -2,7 +2,7 @@
 title: "An efficient insertion operator in dynamic ridesharing services"
 date: 2019-01-01
 publishDate: 2020-04-18T14:25:33.847220Z
-authors: ["Yi Xu", "Yongxin Tong", "**Yexuan Shi2**", "\*Qian Tao\*", "Ke Xu1", "Wei Li"]
+authors: ["Yi Xu", "Yongxin Tong", "**Yexuan Shi2**", "Qian Tao", "Ke Xu1", "Wei Li"]
 publication_types: ["1"]
 abstract: ""
 featured: false
