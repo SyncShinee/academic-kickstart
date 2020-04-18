@@ -68,5 +68,3 @@ user_groups:
 ---
 
 Yexuan Shi is a Ph. D. student of Computer Software and Theory at the Big Data Analysis Group, SKLSDE, Beihang University. His research interests include spatial crowdsourcing, federated data services and privacy-preserving data analysis. 
-
-abcd
