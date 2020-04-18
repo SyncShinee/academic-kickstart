@@ -18,7 +18,7 @@ day_night = true
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in font sets in `themes/academic/data/fonts/`
 #   Browse user installed font sets in `data/fonts/`
-font = ""
+font = "classic"
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
@@ -86,14 +86,14 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "New Main Building 1140, No.37 Xueyuan Road", city = "Beijing", region = "Haidian", postcode = "100191", country = "China", country_code = "CN"}
+address = {street = "New Main Building G1140, No.37 Xueyuan Road", city = "Beijing", region = "China", postcode = "100191", country = "China", country_code = "CN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 # coordinates = {latitude = "37.4275", longitude = "-122.1697"}
 
 # Directions for visitors to locate you.
-# directions = "New Main Building 1140"
+# directions = "New Main Building G1140"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
