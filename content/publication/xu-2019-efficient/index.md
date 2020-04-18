@@ -25,6 +25,6 @@ to O(n) harnessing efficient index structures, such as fenwick
 tree. Evaluations on two real-world large-scale datasets show
 that our methods can accelerate insertion by 1.5 to 998.1 times."
 featured: false
-publication: "*in Proceedings of the IEEE 35th International Conference on Data Engineering (ICDE)*"
+publication: "*in Proceedings of the IEEE 35th International Conference on Data Engineering* **(ICDE'19)**"
 ---
 
