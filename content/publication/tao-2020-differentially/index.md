@@ -17,15 +17,15 @@ the effectiveness of task assignment. In this paper, we investigate
 privacy protection for online task assignment with the objective
 of minimizing the total distance, an important task assignment
 formulation in spatial crowdsourcing. We design a novel privacy mechanism based on Hierarchically Well-Separated Trees
-(HSTs). We prove that the mechanism is -Geo-Indistinguishable
+(HSTs). We prove that the mechanism is $\\epsilon$-Geo-Indistinguishable
 and show that there is a task assignment algorithm with a
-competitive ratio of $O(\\log n)$ , where is the privacy
+competitive ratio of $O(\\frac{1}{\\epsilon^4} \\log N \\log^2 k)$ , where is the privacy
 budget, N is the number of predefined points on the HST, and
 k is the matching size. Extensive experiments on synthetic and
 real datasets show that online task assignment under our privacy
 mechanism is notably more effective in terms of total distance
 than under prior differentially private mechanisms."
 featured: false
-publication: "*in Proceedings of the IEEE 36th International Conference on Data Engineering (ICDE)*"
+publication: "*in Proceedings of the IEEE 36th International Conference on Data Engineering* **(ICDE'20)**"
 ---
 
