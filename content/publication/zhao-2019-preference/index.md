@@ -6,6 +6,6 @@ authors: ["Boming Zhao", "Pan Xu", "*Yexuan Shi*", "Yongxin Tong", "Zimu Zhou", 
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the AAAI Conference on Artificial Intelligence*"
+publication: "*in Proceedings of the AAAI Conference on Artificial Intelligence*"
 ---
 

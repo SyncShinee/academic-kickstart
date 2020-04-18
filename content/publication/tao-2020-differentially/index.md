@@ -6,6 +6,6 @@ authors: ["Qian Tao", "Yongxin Tong", "Zimu Zhou", "*Yexuan Shi*", "Lei Chen", "
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*2020 IEEE 36th International Conference on Data Engineering (ICDE)*"
+publication: "*in Proceedings of the IEEE 36th International Conference on Data Engineering (ICDE)*"
 ---
 

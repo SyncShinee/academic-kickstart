@@ -6,6 +6,6 @@ authors: ["Yi Xu", "Yongxin Tong", "*Yexuan Shi*", "Qian Tao", "Ke Xu", "Wei Li"
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*2019 IEEE 35th International Conference on Data Engineering (ICDE)*"
+publication: "*in Proceedings of the IEEE 35th International Conference on Data Engineering (ICDE)*"
 ---
 

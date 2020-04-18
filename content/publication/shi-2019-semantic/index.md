@@ -6,6 +6,6 @@ authors: ["*Yexuan Shi*", "Zhiyang Su", "Zimu Zhou", "Wenbin Zhang", "Yongxin To
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality in Conjunction with IJCAI 2019*"
+publication: "*in the 1st International Workshop on Federated Machine Learning for User Privacy and Data Confidentiality in Conjunction with IJCAI 2019*"
 ---
 

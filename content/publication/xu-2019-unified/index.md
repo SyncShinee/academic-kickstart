@@ -6,6 +6,6 @@ authors: ["Pan Xu", "*Yexuan Shi*", "Hao Cheng", "John Dickerson", "Karthik Abin
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*Proceedings of the AAAI Conference on Artificial Intelligence*"
+publication: "*in Proceedings of the AAAI Conference on Artificial Intelligence*"
 ---
 

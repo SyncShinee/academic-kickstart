@@ -6,6 +6,6 @@ authors: ["Feifei Kou", "Zimu Zhou", "Hao Cheng", "Junping Du", "*Yexuan Shi*", 
 publication_types: ["1"]
 abstract: ""
 featured: false
-publication: "*2019 IEEE 35th International Conference on Data Engineering (ICDE)*"
+publication: "*in Proceedings of the IEEE 35th International Conference on Data Engineering (ICDE)*"
 ---
 
