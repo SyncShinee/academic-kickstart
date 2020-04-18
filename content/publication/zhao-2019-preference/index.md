@@ -22,6 +22,6 @@ around $0.5\\cdot|E|$ blocking pairs. Evaluations on both synthetic
 and real datasets confirm our theoretical analysis and demonstrate that LP-ALG strictly dominates all the baselines on
 both objectives when tasks notably outnumber workers."
 featured: false
-publication: "*in Proceedings of the AAAI Conference on Artificial Intelligence*"
+publication: "*in Proceedings of the AAAI Conference on Artificial Intelligence* **(AAAI'19)**"
 ---
 
