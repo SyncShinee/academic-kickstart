@@ -28,7 +28,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Computer Software and Theory
-    institution: Stanford University
+    institution: Beihang University
     year: present
   - course: BSc. in Computer Science and Technology
     institution: Beihang University
@@ -69,4 +69,3 @@ user_groups:
 
 Yexuan Shi is a Ph. D. student of Computer Software and Theory at the Big Data Analysis Group, SKLSDE, Beihang University. His research interests include spatial crowdsourcing, federated data services and privacy-preserving data analysis. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
