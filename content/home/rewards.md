@@ -49,11 +49,23 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td>
+                <!--左侧内容-->
+                左侧
+            </td>
+            <td>
+                <!--右侧内容-->
+                右侧
+            </td>
+        </tr>
+    </table>
 
 ### 2017
 - **Silver Metal**, ACM-ICPC Asia East Continent League Final
 - **Gold Metal**, ACM-ICPC Asia Regional Contest, Nanning Site
 
 ### 2016
-- **First Prize**, 7th ''Blue Bridge Cup'' National Professional Software Engineering Competition (C/C++), Final Round
+- **First Prize**, 7th Blue Bridge Cup, Final Round
 +++
