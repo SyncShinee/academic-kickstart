@@ -19,33 +19,53 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
+  #organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Silver Metal, ACM-ICPC Asia East Continent League Final"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2017-12-01"
+  date_end = ""
+  description = "38th place out of 303 teams."
+
+[[item]]
+  #organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
+  title = "Gold Metal, ACM-ICPC Asia Regional Contest, Nanning Site"
   url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
+  certificate_url = ""
+  date_start = "2017-10-01"
+  date_end = ""
+  description = "27th place out of 228 teams."
+
+[[item]]
+  #organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Silver Metal, ACM-ICPC Asia Regional Contest, Qingdao Site"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2016-10-01"
   date_end = ""
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
-  
-[[item]]
-  organization = "DataCamp"
+  #organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  title = "Silver Metal, ACM-ICPC Asia Regional Contest, Shenyang Site"
   url = ""
   certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  date_start = "2016-09-01"
+  date_end = ""
+  description = ""
+
+[[item]]
+  #organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "First Prize, 7th 'Blue Bridge Cup' National Professional Software Engineering Competition (C/C++), Final Round"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2016-05-01"
+  date_end = ""
   description = ""
 
 +++
