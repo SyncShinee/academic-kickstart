@@ -8,6 +8,12 @@ weight = 120  # Order that this section will appear.
 title = "Rewards"
 subtitle = ""
 
+
+[design]
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns = "1"
+
+
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 
