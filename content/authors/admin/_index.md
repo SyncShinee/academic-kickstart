@@ -16,8 +16,8 @@ role: Ph. D. Student
 organizations:
 - name: Big Data Analysis Group
   url: "http://yongxintong.group"
-- name: Big Data Analysis Group
-  url: "http://yongxintong.group"
+- name: SKLSDE, Beihang University
+  url: "http://www.nlsde.buaa.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include big spatio-temporal data, crowdsourcing, differential privacy, federated learning and federated data services.
