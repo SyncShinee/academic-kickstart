@@ -2,7 +2,7 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 title = "Accomplish&shy;ments"
@@ -20,51 +20,51 @@ date_format = "Jan 2006"
 
 [[item]]
   #organization = "edX"
-  organization_url = ""
+  organization_url = "https://www.edx.org"
   title = "Silver Metal, ACM-ICPC Asia East Continent League Final"
   url = ""
   certificate_url = ""
-  date_start = "2017"
+  date_start = "2017-12-01"
   date_end = ""
-  description = ""
+  description = "38th place out of 303 teams."
 
 [[item]]
   #organization = "Coursera"
-  organization_url = ""
+  organization_url = "https://www.coursera.org"
   title = "Gold Metal, ACM-ICPC Asia Regional Contest, Nanning Site"
   url = ""
   certificate_url = ""
-  date_start = "2017"
+  date_start = "2017-10-01"
   date_end = ""
-  description = ""
+  description = "27th place out of 228 teams."
 
 [[item]]
   #organization = "DataCamp"
-  organization_url = ""
+  organization_url = "https://www.datacamp.com"
   title = "Silver Metal, ACM-ICPC Asia Regional Contest, Qingdao Site"
   url = ""
   certificate_url = ""
-  date_start = "2016"
+  date_start = "2016-10-01"
   date_end = ""
   description = ""
 
 [[item]]
   #organization = "DataCamp"
-  organization_url = ""
+  organization_url = "https://www.datacamp.com"
   title = "Silver Metal, ACM-ICPC Asia Regional Contest, Shenyang Site"
   url = ""
   certificate_url = ""
-  date_start = "2016"
+  date_start = "2016-09-01"
   date_end = ""
   description = ""
 
 [[item]]
   #organization = "DataCamp"
-  organization_url = ""
-  title = "First Prize, 7th 'Blue Bridge Cup' National Professional Software Engineering Competition (C/C++), Final Round"
+  organization_url = "https://www.datacamp.com"
+  title = "First Prize, 7th 'Blue Bridge Cup' National Professional Software Engineering Competition (C/C++), Final Round "
   url = ""
   certificate_url = ""
-  date_start = "2016"
+  date_start = "2016-09-01"
   date_end = ""
   description = ""
 
