@@ -18,7 +18,7 @@ organizations:
   url: "http://yongxintong.group"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include big spatio-temporal data, crowdsourcing, differential privacy, federated Learning and federated data services.
+bio: My research interests include big spatio-temporal data, crowdsourcing, differential privacy, federated learning and federated data services.
 
 interests:
 - Big Spatio-temporal Data
@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph. D. student of Computer Software and Theory at the [Big Data Analysis Group](http://yongxintong.group/), [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), under [Prof. Yongxin Tong](http://sites.nlsde.buaa.edu.cn/~yxtong/) and [Prof. Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)'s supervision. My research interests include big spatio-temporal data, crowdsourcing, differential privacy, federated Learning and federated data services.
+I am a Ph. D. student of Computer Software and Theory at the [Big Data Analysis Group](http://yongxintong.group/), [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), under [Prof. Yongxin Tong](http://sites.nlsde.buaa.edu.cn/~yxtong/) and [Prof. Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)'s supervision. My research interests include big spatio-temporal data, crowdsourcing, differential privacy, federated learning and federated data services.
