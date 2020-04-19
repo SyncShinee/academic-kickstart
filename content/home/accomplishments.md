@@ -61,7 +61,7 @@ date_format = "2006"
 [[item]]
   #organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
-  title = "\color{red}{First Prize}, 7th 'Blue Bridge Cup' National Professional Software Engineering Competition (C/C++), Final Round "
+  title = "\\color{red}{First Prize}, 7th 'Blue Bridge Cup' National Professional Software Engineering Competition (C/C++), Final Round "
   url = ""
   certificate_url = ""
   date_start = "2016-09-01"
