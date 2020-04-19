@@ -68,4 +68,14 @@ date_format = "Jan. 2006"
   date_end = ""
   description = ""
 
+ [[item]]
+  organization = "Beihang University"
+  organization_url = "https://www.buaa.edu.cn"
+  title = "Postgraduate Scholarship"
+  url = ""
+  certificate_url = ""
+  date_start = "2017-09-01"
+  date_end = "2020-09-01"
+  description = ""
+
 +++
