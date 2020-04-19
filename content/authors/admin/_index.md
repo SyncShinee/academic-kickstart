@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yexuan Shi(史烨轩)
+title: Yexuan Shi (史烨轩)
 
 # Username (this should match the folder name)
 authors:
