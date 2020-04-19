@@ -19,8 +19,8 @@ date_format = "Jan. 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  #organization = "edX"
-  organization_url = "https://www.edx.org"
+  organization = "ICPC Foundation"
+  organization_url = "https://icpc.baylor.edu/"
   title = "Silver Metal *, ACM-ICPC Asia East Continent League Final.*"
   url = ""
   certificate_url = ""
@@ -29,8 +29,8 @@ date_format = "Jan. 2006"
   description = ""
 
 [[item]]
-  #organization = "Coursera"
-  organization_url = "https://www.coursera.org"
+  organization = "ICPC Foundation"
+  organization_url = "https://icpc.baylor.edu/"
   title = "Gold Metal *, ACM-ICPC Asia Regional Contest, Nanning Site.*"
   url = ""
   certificate_url = ""
@@ -59,9 +59,9 @@ date_format = "Jan. 2006"
 #  description = ""
 
 [[item]]
-  #organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "First Prize *, 7th Blue Bridge Cup, Final Round.* "
+  #organization = "Lan Qiao Education & Technology"
+  organization_url = "http://www.lanqiaobei.cn/"
+  title = "First Prize *, 7th Contest of Lan Qiao Cup, Final Round.* "
   url = ""  
   certificate_url = ""
   date_start = "2016-05-29"
