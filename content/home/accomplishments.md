@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan. 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -24,7 +24,7 @@ date_format = "2006"
   title = "Silver Metal *, ACM-ICPC Asia East Continent League Final.*"
   url = ""
   certificate_url = ""
-  date_start = "2017-12-01"
+  date_start = "2017-12-16"
   date_end = ""
   description = ""
 
@@ -34,7 +34,7 @@ date_format = "2006"
   title = "Gold Metal *, ACM-ICPC Asia Regional Contest, Nanning Site.*"
   url = ""
   certificate_url = ""
-  date_start = "2017-10-01"
+  date_start = "2017-11-25"
   date_end = ""
   description = ""
 
@@ -64,7 +64,7 @@ date_format = "2006"
   title = "First Prize *, 7th Blue Bridge Cup, Final Round.* "
   url = ""  
   certificate_url = ""
-  date_start = "2016-09-01"
+  date_start = "2016-05-29"
   date_end = ""
   description = ""
 
