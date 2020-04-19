@@ -1,6 +1,6 @@
 +++
 # Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 120  # Order that this section will appear.
@@ -18,7 +18,7 @@ date_format = "2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[item]]
+
   organization = "edX"
   organization_url = "https://www.edx.org"
   title = "*Silver Metal*, ACM-ICPC Asia East Continent League Final"
@@ -28,7 +28,7 @@ date_format = "2006"
   date_end = ""
   description = ""
 
-[[item]]
+
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
   title = "*Gold Metal*, ACM-ICPC Asia Regional Contest, Nanning Site"
@@ -58,7 +58,7 @@ date_format = "2006"
 #  date_end = ""
 #  description = ""
 
-[[item]]
+
   #organization = "DataCamp"
   organization_url = "https://www.datacamp.com"
   title = "*First Prize*, 7th ''Blue Bridge Cup'' National Professional Software Engineering Competition (C/C++), Final Round "
