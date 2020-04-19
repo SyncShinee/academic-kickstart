@@ -48,6 +48,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
++++
 
     <table style="margin-left: auto; margin-right: auto;">
         <tr>
@@ -68,4 +69,3 @@ subtitle = ""
 
 ### 2016
 - **First Prize**, 7th Blue Bridge Cup, Final Round
-+++
