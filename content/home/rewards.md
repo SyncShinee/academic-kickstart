@@ -48,7 +48,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
-+++
+
 
 ### 2017
 - **Silver Metal**, ACM-ICPC Asia East Continent League Final
@@ -56,3 +56,4 @@ subtitle = ""
 
 ### 2016
 - **First Prize**, 7th ''Blue Bridge Cup'' National Professional Software Engineering Competition (C/C++), Final Round
++++
