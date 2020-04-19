@@ -26,6 +26,6 @@ real datasets show that online task assignment under our privacy
 mechanism is notably more effective in terms of total distance
 than under prior differentially private mechanisms."
 featured: false
-publication: "*in Proceedings of the IEEE 36th International Conference on Data Engineering* **(ICDE'20)**"
+publication: "*The 36th IEEE International Conference on Data Engineering*, **(ICDE'20)**"
 ---
 

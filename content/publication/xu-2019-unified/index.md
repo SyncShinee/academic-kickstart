@@ -1,5 +1,5 @@
 ---
-title: "A Unified Approach to Online Matching with Conflict-Aware Constraints"
+title: "A Unified Approach to Online Matching with Conflict-aware Constraints"
 date: 2019-01-01
 publishDate: 2020-04-18T14:25:33.847220Z
 authors: ["Pan Xu", "Yexuan Shi", "Hao Cheng", "John Dickerson", "Karthik Abinav Sankararaman", "Aravind Srinivasan", "Yongxin Tong", "Leonidas Tsepenekas"]
@@ -33,6 +33,6 @@ heuristics and test them against two natural baselines on both
 real and synthetic datasets. Our LP-based heuristics experimentally dominate the baseline algorithms, aligning with our
 theoretical predictions and supporting our unified approach."
 featured: false
-publication: "*in Proceedings of the AAAI Conference on Artificial Intelligence* **(AAAI'19)**"
+publication: "*The 33rd AAAI Conference on Artificial Intelligence*, **(AAAI'19)**"
 ---
 
