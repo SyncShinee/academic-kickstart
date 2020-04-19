@@ -8,14 +8,14 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
-title = "Demos"
+title = "Rewards"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns = "2"
 
-[design.background]
+# [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
@@ -29,14 +29,14 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
-  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+#  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+#  image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+#  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+#  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+#  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
 
   # Text color (true=light or false=dark).
-  text_color_light = true
+#  text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -50,16 +50,9 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **personal demo** of Academic. Other demos available include:
+### 2017
+- **Silver Metal**, ACM-ICPC Asia East Continent League Final
+- **Gold Metal**, ACM-ICPC Asia Regional Contest, Nanning Site
 
-- [**Project Demo** (Academic's actual site)](https://sourcethemes.com/academic/)
-
-**Over 100,000 [Amazing Websites](https://sourcethemes.com/academic/#expo) have Already Been Built with Academic**
-
-**[Join](https://sourcethemes.com/academic/docs/install/) the Most Empowered Hugo Community**
-
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
-
-Backgrounds can be applied to any section. Here, the *background* option is set give an *image parallax* effect.
-{{% /alert %}}
+### 2016
+- **First Prize**, 7th ''Blue Bridge Cup'' National Professional Software Engineering Competition (C/C++), Final Round
