@@ -19,7 +19,7 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  #organization = "edX"
+  organization = "edX"
   organization_url = "https://www.edx.org"
   title = "Silver Metal, ACM-ICPC Asia East Continent League Final"
   url = ""
