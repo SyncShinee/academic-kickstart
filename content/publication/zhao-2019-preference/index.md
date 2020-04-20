@@ -21,7 +21,7 @@ an arbitrarily bad performance on OBJ-1 while maintaining
 around $0.5\\cdot|E|$ blocking pairs. Evaluations on both synthetic
 and real datasets confirm our theoretical analysis and demonstrate that LP-ALG strictly dominates all the baselines on
 both objectives when tasks notably outnumber workers."
-featured: false
+featured: true
 publication: "*The 33rd AAAI Conference on Artificial Intelligence*"
 ---
 

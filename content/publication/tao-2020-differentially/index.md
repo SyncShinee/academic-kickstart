@@ -25,7 +25,7 @@ k is the matching size. Extensive experiments on synthetic and
 real datasets show that online task assignment under our privacy
 mechanism is notably more effective in terms of total distance
 than under prior differentially private mechanisms."
-featured: false
+featured: true
 publication: "*The 36th IEEE International Conference on Data Engineering*"
 ---
 

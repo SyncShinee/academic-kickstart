@@ -24,7 +24,7 @@ We further improve the time efficiency of the insertion operator
 to O(n) harnessing efficient index structures, such as fenwick
 tree. Evaluations on two real-world large-scale datasets show
 that our methods can accelerate insertion by 1.5 to 998.1 times."
-featured: false
+featured: true
 publication: "*The 35th IEEE International Conference on Data Engineering*"
 ---
 
