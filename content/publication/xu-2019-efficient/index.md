@@ -26,5 +26,6 @@ tree. Evaluations on two real-world large-scale datasets show
 that our methods can accelerate insertion by 1.5 to 998.1 times."
 featured: true
 publication: "*The 35th IEEE International Conference on Data Engineering*"
+url_slides: "xu-2019-efficient-slides.pdf"
 ---
 
