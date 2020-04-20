@@ -557,11 +557,13 @@ ul.ul-edu li .description p.institution {
   width: 2rem; /* Match `fa-2x` icon size. */
   top: 0.14285714em; /* Default FA value. */
   text-align: center;
+  vertical-align:middle
 }
 
 .contact-widget li {
   padding-top: 0.8rem; /* Align text with bottom of `fa-2x` icon. */
-  margin-bottom: 0.1rem;
+  margin-bottom: 0.3rem;
+  vertical-align:middle
 }
 
 .contact-widget li:last-of-type {
