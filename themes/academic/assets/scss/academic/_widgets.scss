@@ -549,7 +549,6 @@ ul.ul-edu li .description p.institution {
 
 .contact-widget .fa-ul {
   margin-left: 3.14285714rem; /* Must be > `fa-2x` icon size. */
-  vertical-align:middle
 }
 
 .contact-widget .fa-li {
@@ -562,7 +561,7 @@ ul.ul-edu li .description p.institution {
 
 .contact-widget li {
   padding-top: 0.8rem; /* Align text with bottom of `fa-2x` icon. */
-  margin-bottom: 0.3rem;
+  margin-bottom: 0.1rem;
 }
 
 .contact-widget li:last-of-type {
