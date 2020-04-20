@@ -2,7 +2,7 @@
 title: "An Efficient Insertion Operator in Dynamic Ridesharing Services"
 date: 2019-01-01
 publishDate: 2020-04-18T14:25:33.847220Z
-authors: ["Yi Xu", "Yongxin Tong", "**Yexuan Shi**", "Qian Tao", "Ke Xu", "Wei Li"]
+authors: ["**[ICDE 2019]** Yi Xu", "Yongxin Tong", "**Yexuan Shi**", "Qian Tao", "Ke Xu", "Wei Li"]
 publication_types: ["1"]
 abstract: "Dynamic ridesharing refers to services that arrange
 one-time shared rides on short notice. It underpins various
@@ -25,6 +25,6 @@ to O(n) harnessing efficient index structures, such as fenwick
 tree. Evaluations on two real-world large-scale datasets show
 that our methods can accelerate insertion by 1.5 to 998.1 times."
 featured: false
-publication: "*The 35th IEEE International Conference on Data Engineering*, **(ICDE'19)**"
+publication: "*The 35th IEEE International Conference on Data Engineering*"
 ---
 
