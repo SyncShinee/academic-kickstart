@@ -23,5 +23,6 @@ and real datasets confirm our theoretical analysis and demonstrate that LP-ALG s
 both objectives when tasks notably outnumber workers."
 featured: true
 publication: "*The 33rd AAAI Conference on Artificial Intelligence*"
+url_code: "https://github.com/BUAA-BDA/SpatialCrowdsourcing-OSM"
 ---
 
