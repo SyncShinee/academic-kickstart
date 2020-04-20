@@ -2,7 +2,7 @@
 title: "Preference-aware task assignment in on-demand taxi dispatching: An online stable matching approach"
 date: 2019-01-01
 publishDate: 2020-04-18T14:25:33.848207Z
-authors: ["Boming Zhao", "Pan Xu", "Yexuan Shi", "Yongxin Tong", "Zimu Zhou", "Yuxiang Zeng"]
+authors: ["**[AAAI'19]**", "Boming Zhao", "Pan Xu", "**Yexuan Shi**", "Yongxin Tong", "Zimu Zhou", "Yuxiang Zeng"]
 publication_types: ["1"]
 abstract: "A central issue in on-demand taxi dispatching platforms is
 task assignment, which designs matching policies among dynamically arrived drivers (workers) and passengers (tasks).
@@ -22,6 +22,6 @@ around $0.5\\cdot|E|$ blocking pairs. Evaluations on both synthetic
 and real datasets confirm our theoretical analysis and demonstrate that LP-ALG strictly dominates all the baselines on
 both objectives when tasks notably outnumber workers."
 featured: false
-publication: "*The 33rd AAAI Conference on Artificial Intelligence*, **(AAAI'19)**"
+publication: "*The 33rd AAAI Conference on Artificial Intelligence*"
 ---
 
