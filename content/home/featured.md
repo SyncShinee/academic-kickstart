@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Selected Publications [[Full list]](publications) [[Google Scholar]](https://scholar.google.com/citations?user=MZvqjCMAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pers/hd/s/Shi:Yexuan)"
+subtitle = "Selected Publications\\\\ [[Full list]](publications) [[Google Scholar]](https://scholar.google.com/citations?user=MZvqjCMAAAAJ) [[DBLP]](https://dblp.uni-trier.de/pers/hd/s/Shi:Yexuan)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
