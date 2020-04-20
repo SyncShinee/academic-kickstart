@@ -3,7 +3,7 @@ title: "Preference-aware Task Assignment in On-demand Taxi Dispatching: An Onlin
 date: 2019-01-01
 publishDate: 2020-04-18T14:25:33.848207Z
 authors: ["**[AAAI 2019]** Boming Zhao", "Pan Xu", "**Yexuan Shi**", "Yongxin Tong", "Zimu Zhou", "Yuxiang Zeng"]
-publication_types: ["9"]
+publication_types: ["1"]
 abstract: "A central issue in on-demand taxi dispatching platforms is
 task assignment, which designs matching policies among dynamically arrived drivers (workers) and passengers (tasks).
 Previous matching policies maximize the profit of the platform without considering the preferences of workers and
