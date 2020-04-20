@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
-title = "Selected Publications"
-subtitle = ""
+title = "Publications"
+subtitle = "[Full list](#publications)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.
