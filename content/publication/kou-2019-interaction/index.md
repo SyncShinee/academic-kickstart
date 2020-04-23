@@ -1,6 +1,6 @@
 ---
 title: "Interaction-aware Arrangement for Event-based Social Networks"
-date: 2019-01-01
+date: 2019-01-10
 publishDate: 2020-04-18T14:25:33.846240Z
 authors: ["**[ICDE 2019]** Feifei Kou", "Zimu Zhou", "Hao Cheng", "Junping Du", "**Yexuan Shi**", "Pan Xu"]
 publication_types: ["1"]
