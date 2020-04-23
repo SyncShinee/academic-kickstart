@@ -32,7 +32,7 @@ online performance. Additionally, we propose two LP-based
 heuristics and test them against two natural baselines on both
 real and synthetic datasets. Our LP-based heuristics experimentally dominate the baseline algorithms, aligning with our
 theoretical predictions and supporting our unified approach."
-featured: false
+featured: true
 publication: "*The 33rd AAAI Conference on Artificial Intelligence*"
 ---
 
