@@ -1,6 +1,6 @@
 ---
 title: "Preference-aware Task Assignment in On-demand Taxi Dispatching: An Online Stable Matching Approach"
-date: 2019-01-29
+date: 2019-10-01
 publishDate: 2020-04-18T14:25:33.848207Z
 authors: ["**[AAAI 2019]** Boming Zhao", "Pan Xu", "**Yexuan Shi**", "Yongxin Tong", "Zimu Zhou", "Yuxiang Zeng"]
 publication_types: ["1"]

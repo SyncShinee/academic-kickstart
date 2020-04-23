@@ -1,6 +1,6 @@
 ---
 title: "An Efficient Insertion Operator in Dynamic Ridesharing Services"
-date: 2019-01-01
+date: 2019-12-31
 publishDate: 2020-04-18T14:25:33.847220Z
 authors: ["**[ICDE 2019]** Yi Xu", "Yongxin Tong", "**Yexuan Shi**", "Qian Tao", "Ke Xu", "Wei Li"]
 publication_types: ["1"]
