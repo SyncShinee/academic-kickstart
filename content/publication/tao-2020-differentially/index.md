@@ -27,5 +27,6 @@ mechanism is notably more effective in terms of total distance
 than under prior differentially private mechanisms."
 featured: true
 publication: "*The 36th IEEE International Conference on Data Engineering*"
+url_slides: "tao-2020-differentially-slides.pdf"
 ---
 
