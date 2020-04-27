@@ -33,7 +33,7 @@ education:
   - course: Ph.D. in Computer Software and Theory
     institution: Beihang University
     year: present
-  - course: B.S. in Computer Science and Technology
+  - course: B.Eng. in Computer Science and Technology
     institution: Beihang University
     year: 2017
  
