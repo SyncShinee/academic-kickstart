@@ -21,17 +21,17 @@ date_format = "2006"
 [[item]]
   organization = "ICPC Foundation"
   organization_url = "https://icpc.baylor.edu/"
-  title = "*Silver Metal*, ACM-ICPC Asia East Continent League Final."
+  title = "*Silver Medal*, ACM-ICPC Asia East Continent League Final."
   url = ""
   certificate_url = ""
   date_start = "2017-12-16"
   date_end = ""
   description = ""
-
+dd
 [[item]]
   organization = "ICPC Foundation"
   organization_url = "https://icpc.baylor.edu/"
-  title = "*Gold Metal*, ACM-ICPC Asia Regional Contest, Nanning Site."
+  title = "*Gold Medal*, ACM-ICPC Asia Regional Contest, Nanning Site."
   url = ""
   certificate_url = ""
   date_start = "2017-11-25"
