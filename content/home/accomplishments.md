@@ -78,4 +78,14 @@ date_format = "2006"
   date_end = "2020-09-01"
   description = ""
 
+[[item]]
+  organization = "Beihang University"
+  organization_url = "https://www.buaa.edu.cn"
+  title = "Outstanding Graduates Award."
+  url = ""
+  certificate_url = ""
+  date_start = "2017-06-01"
+  date_end = ""
+  description = ""
+
 +++
