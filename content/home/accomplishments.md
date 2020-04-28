@@ -27,7 +27,7 @@ date_format = "2006"
   date_start = "2017-12-16"
   date_end = ""
   description = ""
-dd
+
 [[item]]
   organization = "ICPC Foundation"
   organization_url = "https://icpc.baylor.edu/"
