@@ -61,7 +61,7 @@ date_format = "2006"
 [[item]]
   organization = "Lan Qiao Education & Technology"
   organization_url = "http://www.lanqiaobei.cn/"
-  title = "*First Prize*, 7th Contest of Lan Qiao Cup, National Final."
+  title = "*First Prize of National*, 7th Contest of Lan Qiao Cup."
   url = ""  
   certificate_url = ""
   date_start = "2016-05-29"
