@@ -73,4 +73,6 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph. D. student of Computer Software and Theory at the [Big Data Analysis Group](http://yongxintong.group/), [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), under [Prof. Yongxin Tong](http://sites.nlsde.buaa.edu.cn/~yxtong/) and [Prof. Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)'s supervision. My research interests include big spatio-temporal data, crowdsourcing, differential privacy, federated learning and federated data services.
+I am a Ph. D. student of Computer Software and Theory at the [Big Data Analysis Group](http://yongxintong.group/), [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), under [Prof. Yongxin Tong](http://sites.nlsde.buaa.edu.cn/~yxtong/) and [Prof. Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)'s supervision. Previously, I obtained a B.Eng. with a major in Computer Science and Technology, from Beihang University. 
+
+My research interests broadly span the intersection of Algorithms, Big Data, Security/Privacy and Mechanism Design. I am interested in both foundations and applications of problems that broadly fall in these domains. I am especially interested in research that balances effectiveness and efficiency.
