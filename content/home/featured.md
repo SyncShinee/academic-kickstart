@@ -9,7 +9,8 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Selected Publications [[Full List]](publication)"
+# subtitle = "Selected Publications [[Full List]](publication)"
+subtitle = "Selected Publications"
 
 
 [content]
