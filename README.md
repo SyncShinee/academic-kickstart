@@ -1,3 +1,14 @@
+# Remarks
+
+- **Contact links**: config/params.toml 
+- **Publications Repo**: publication 
+- **Publication Types**: themes/academic/data/publication_types.toml
+- **Social Icons**: authors/admin/_index.md
+- **Bio**: authors/admin/_index.md
+- **Research Interests**: authors/admin/_index.md
+- **Selected Publications**: home/featured.md
+- **Awards**: home/accomplishments.md 
+
 <p align="center"><a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener"><img src="https://sourcethemes.com/academic/img/logo_200px.png" alt="Academic logo"></a></p>
 
 # Academic Kickstart: The Template for [Academic Website Builder](https://sourcethemes.com/academic/)

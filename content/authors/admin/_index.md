@@ -25,8 +25,8 @@ bio: My research interests include big spatio-temporal data, crowdsourcing, diff
 interests:
 - Big Spatio-temporal Data
 - Crowdsourcing
-- Differential Privacy and Secure Multi-party Computation
-- Federated Learning and Federated Data Services
+- Security & Privacy
+- Federated Learning
 
 education:
   courses:

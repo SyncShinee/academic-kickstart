@@ -105,7 +105,7 @@ address = {street = "No.37 Xueyuan Road, Haidian District", city = "Beijing", re
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
  contact_links = [
-  {icon = "hotel", icon_pack = "fas", name = "Room G1140, New Main Building"},
+  {icon = "hotel", icon_pack = "fas", name = "Room G1135, New Main Building"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
 #  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

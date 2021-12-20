@@ -9,7 +9,8 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Publications"
-subtitle = "Selected Publications [[Full List]](publication)"
+# subtitle = "Selected Publications [[Full List]](publication)"
+subtitle = "Selected Publications"
 
 
 [content]
@@ -23,7 +24,7 @@ subtitle = "Selected Publications [[Full List]](publication)"
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = false
+  link_to_archive = true
 
   # Filter posts by a taxonomy term.
   [content.filters]
