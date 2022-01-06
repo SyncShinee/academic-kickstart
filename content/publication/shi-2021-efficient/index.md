@@ -10,9 +10,9 @@ Yet they also challenge the conventional implementation of range aggregation que
 These constraints limit the design space of distributed range aggregation query processing and render existing solutions inefficient on large-scale data.
 In this work, we propose the first-of-its-kind approximate algorithms for efficient range aggregation over spatial data federation. 
 We devise novel single-silo sampling algorithms that process queries in parallel
-and design a level sampling based algorithm which reduces the time complexity of local queries at each data silo to $O(\log\frac{1}{\epsilon})$,
-where $\epsilon$ is the approximation ratio of the accuracy guarantee.
-Extensive evaluations with real-world data show that compared with state-of-the-arts, our solutions reduce the time cost and communication cost by up to $85.1\times$ and $5.5\times$ respectively, with average approximate errors of below $2.8\%$.
+and design a level sampling based algorithm which reduces the time complexity of local queries at each data silo to $O(\\log\\frac{1}{\\epsilon})$,
+where $\\epsilon$ is the approximation ratio of the accuracy guarantee.
+Extensive evaluations with real-world data show that compared with state-of-the-arts, our solutions reduce the time cost and communication cost by up to $85.1\\times$ and $5.5\\times$ respectively, with average approximate errors of below $2.8%$.
 In addition, our solutions yield a throughput of over 250 queries per second, achieving real-time responses for real-world bike-sharing applications."
 featured: true
 publication: "*IEEE Transactions on Knowledge and Data Engineering*"
