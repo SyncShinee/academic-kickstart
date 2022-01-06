@@ -20,7 +20,7 @@ organizations:
   url: "http://www.nlsde.buaa.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include big spatio-temporal data, crowdsourcing, differential privacy, federated learning and federated data services.
+bio: My research interests include big spatio-temporal data, crowdsourcing, differential privacy and federated learning.
 
 interests:
 - Big Spatio-temporal Data
@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-#- icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:skyxuan@buaa.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+ icon_pack: fas
+ link: 'mailto:skyxuan@buaa.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -54,6 +54,9 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.uni-trier.de/pers/hd/s/Shi:Yexuan
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yexuan-Shi
 - icon: github
   icon_pack: fab
   link: https://github.com/syncshinee
@@ -62,6 +65,7 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,4 +79,4 @@ user_groups:
 
 I am a Ph. D. student of Computer Software and Theory at the [Big Data Analysis Group](http://yongxintong.group/), [State Key Laboratory of Software Development Environment](http://www.nlsde.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), under [Prof. Yongxin Tong](http://sites.nlsde.buaa.edu.cn/~yxtong/) and [Prof. Ke Xu](http://sites.nlsde.buaa.edu.cn/~kexu/)'s supervision. Previously, I obtained a B.Eng. with a major in Computer Science and Technology, from Beihang University. 
 
-My research interests broadly span the intersection of Algorithms, Big Data, Security/Privacy and Mechanism Design. I am interested in both foundations and applications of problems that broadly fall in these domains. I am especially interested in research that balances effectiveness and efficiency.
+My research interests broadly span the intersection of Algorithms, Big Data and Security/Privacy. I am interested in both foundations and applications of problems that fall in these domains. Especially, I am interested in research that balances effectiveness and efficiency.
