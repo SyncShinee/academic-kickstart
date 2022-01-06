@@ -42,9 +42,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#  icon_pack: fas
-#  link: 'mailto:skyxuan@buaa.edu.cn'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:skyxuan@buaa.edu.cn'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=MZvqjCMAAAAJ
 - icon: dblp
   icon_pack: ai
-  link: https://dblp.uni-trier.de/pers/hd/s/Shi:Yexuan
+  link: https://dblp.org/pid/242/5177.html
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/Yexuan-Shi
