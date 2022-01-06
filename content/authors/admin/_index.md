@@ -15,9 +15,9 @@ role: Ph. D. Student
 # Organizations/Affiliations
 organizations:
 - name: Big Data Analysis Group
-  url: "http://yongxintong.group"
+  url: "https://hufudb.com"
 - name: SKLSDE, Beihang University
-  url: "http://www.nlsde.buaa.edu.cn/"
+  url: "http://www.buaa.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include big spatio-temporal data, crowdsourcing, differential privacy and federated learning.
@@ -54,9 +54,9 @@ social:
 - icon: dblp
   icon_pack: ai
   link: https://dblp.uni-trier.de/pers/hd/s/Shi:Yexuan
-- icon: researchgate
-  icon_pack: ai
-  link: https://www.researchgate.net/profile/Yexuan-Shi
+# - icon: researchgate
+#   icon_pack: ai
+#   link: https://www.researchgate.net/profile/Yexuan-Shi
 - icon: github
   icon_pack: fab
   link: https://github.com/syncshinee
