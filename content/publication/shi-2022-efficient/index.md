@@ -1,6 +1,6 @@
 ---
 title: "Efficient Approximate Range Aggregation over Large-scale Spatial Federation"
-date: 2021-05-01
+date: 2022-05-01
 publishDate: 2021-12-18T14:25:33.849204Z
 authors: ["**[TKDE 2021] Yexuan Shi**", "Yongxin Tong", "Yuxiang Zeng", "Zimu Zhou", "Bolin Ding", "Lei Chen"]
 publication_types: ["2"]
